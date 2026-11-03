@@ -1,13 +1,14 @@
 # Audio Link — downloads
 
-Instaladores públicos do Audio Link para testes. O código-fonte permanece em repositório privado.
+Instaladores públicos para testes. O código do produto permanece privado.
 
-**[Baixar os instaladores e consultar as versões](https://github.com/andipetruzz/audio-link-downloads/releases)**
+- **[Baixar Audio Link 0.1.3 para Windows 10/11 x64](https://github.com/andipetruzz/audio-link-downloads/releases/download/v0.1.3-beta.4/Audio-Link-0.1.3-Windows-x64-Beta-Setup.exe)**
+- [Baixar para Mac Apple Silicon — macOS 13.5+](https://github.com/andipetruzz/audio-link-downloads/releases/download/v0.1.3-beta.4/Audio-Link-0.1.3-macOS-Apple-Silicon-Beta.pkg)
 
-No Windows, baixe o arquivo `Windows-x64-Beta-Setup.exe` na seção **Assets** da versão escolhida. Não é preciso conta no GitHub. Os arquivos “Source code” gerados pelo GitHub contêm apenas esta documentação, não o aplicativo.
+[Ver todas as versões e os checksums](https://github.com/andipetruzz/audio-link-downloads/releases). Não precisa de conta no GitHub. Os arquivos “Source code” contêm apenas a documentação e os metadados públicos.
 
-Para atualizar: salve o trabalho, feche a DAW, o Audio Link Conexões e a entrada standalone, execute o novo instalador e reabra os aplicativos. Não é necessário desinstalar antes. O instalador preserva as configurações e credenciais e não fecha programas automaticamente. Se o OBS estiver apenas recebendo por Fonte de navegador, ele não precisa ser fechado.
+Depois de instalar, abra **Audio Link** nos efeitos VST3 da DAW. Em **Configurações**, escolha **Internet**; clique em **Transmitir** e em **Copiar link**. Use o link no celular, computador ou em uma Fonte de navegador do OBS. O auxiliar inicia sozinho em segundo plano. Um computador novo usa o convite privado de ativação uma vez.
 
-O botão **Atualizar** no plugin abre a página de versões. Não há instalação automática durante a transmissão; confirme a versão desejada e execute o instalador.
+Para atualizar da versão 0.1.2, clique uma vez em **Atualizar** no plugin ou use o download acima. Salve o trabalho, feche a DAW e o antigo Audio Link Conexões, execute o instalador e reabra a DAW. Não precisa desinstalar; configurações e autorização são preservadas. A partir da 0.1.3, o plugin avisa sobre novas versões ao abrir sua interface. Clique no aviso para baixar o instalador; execute-o com a DAW fechada.
 
-As versões Beta são destinadas a testes. Os ensaios prolongados de áudio e a validação no hardware, DAW, OBS e redes reais precisam ser concluídos antes de depender do sistema em uma live. Os instaladores Beta ainda não têm assinatura de um editor comercial.
+As betas são para testes. Os ensaios prolongados e a validação em Windows físico, DAW, OBS e redes reais da nova versão ainda precisam ser concluídos antes de depender dela em uma live. Os instaladores beta ainda não têm assinatura comercial.
