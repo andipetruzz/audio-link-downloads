@@ -2,9 +2,9 @@
 
 Instaladores públicos para testes. O código do produto permanece privado.
 
-- **[Baixar Audio Link 0.1.4 para Windows 10/11 x64](https://github.com/andipetruzz/audio-link-downloads/releases/download/v0.1.4-beta.1/Audio-Link-0.1.4-Windows-x64-Beta-Setup.exe)**
-- [Baixar para Mac Apple Silicon — macOS 13.5+](https://github.com/andipetruzz/audio-link-downloads/releases/download/v0.1.4-beta.1/Audio-Link-0.1.4-macOS-Apple-Silicon-Beta.pkg)
-- [Baixar para Mac Intel — macOS 13.5+](https://github.com/andipetruzz/audio-link-downloads/releases/download/v0.1.4-beta.1/Audio-Link-0.1.4-macOS-Intel-Beta.pkg)
+- **[Baixar Audio Link 0.1.5 para Windows 10/11 x64](https://github.com/andipetruzz/audio-link-downloads/releases/download/v0.1.5-beta.1/Audio-Link-0.1.5-Windows-x64-Beta-Setup.exe)**
+- [Baixar para Mac Apple Silicon — macOS 13.5+](https://github.com/andipetruzz/audio-link-downloads/releases/download/v0.1.5-beta.1/Audio-Link-0.1.5-macOS-Apple-Silicon-Beta.pkg)
+- [Baixar para Mac Intel — macOS 13.5+](https://github.com/andipetruzz/audio-link-downloads/releases/download/v0.1.5-beta.1/Audio-Link-0.1.5-macOS-Intel-Beta.pkg)
 
 [Ver todas as versões e os checksums](https://github.com/andipetruzz/audio-link-downloads/releases). Não precisa de conta no GitHub. Os arquivos “Source code” contêm apenas a documentação e os metadados públicos.
 
@@ -12,7 +12,7 @@ Depois de instalar, abra **Audio Link** nos efeitos VST3 da DAW (ou AU no Mac). 
 
 Para atualizar da versão 0.1.2, clique uma vez em **Atualizar** no plugin ou use o download acima. Salve o trabalho, feche a DAW e o antigo Audio Link Conexões, execute o instalador e reabra a DAW. Não precisa desinstalar; configurações e autorização são preservadas. A partir da 0.1.3, o plugin avisa sobre novas versões ao abrir sua interface. Clique no aviso para baixar o instalador; execute-o com a DAW fechada.
 
-A versão 0.1.4 concluiu uma observação de transporte de duas horas no REAPER, a 192 kbps estéreo, com um receptor Chromium via TURN UDP e sem descarte RTP registrado. Houve perdas de pacotes que exigiram reconstrução. Isso não certifica afinação ou ausência de artefatos audíveis; Windows físico, Safari, OBS e redes independentes continuam como validações separadas. As betas são para testes e ainda não têm assinatura comercial.
+A versão 0.1.5 traz um **QR code** no plugin: clique em **QR code**, ao lado de **Copiar link**, e aponte a câmera do celular para abrir o link direto no navegador. O link de escuta agora é fixo por computador; depois de atualizar, cole-o no OBS uma vez. Esta beta passou nos testes automatizados no Windows, nos dois Macs e no servidor; câmeras de celulares físicos, OBS, Safari, Windows físico e redes independentes continuam como validações separadas. As betas são para testes e ainda não têm assinatura comercial.
 
 ## Instalar a beta no Mac
 
