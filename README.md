@@ -2,9 +2,9 @@
 
 Instaladores públicos para testes. O código do produto permanece privado.
 
-- **[Baixar Audio Link 0.1.6 para Windows 10/11 x64](https://github.com/andipetruzz/audio-link-downloads/releases/download/v0.1.6-beta.1/Audio-Link-0.1.6-Windows-x64-Beta-Setup.exe)**
-- [Baixar para Mac Apple Silicon — macOS 13.5+](https://github.com/andipetruzz/audio-link-downloads/releases/download/v0.1.6-beta.1/Audio-Link-0.1.6-macOS-Apple-Silicon-Beta.pkg)
-- [Baixar para Mac Intel — macOS 13.5+](https://github.com/andipetruzz/audio-link-downloads/releases/download/v0.1.6-beta.1/Audio-Link-0.1.6-macOS-Intel-Beta.pkg)
+- **[Baixar Audio Link 0.1.7 para Windows 10/11 x64](https://github.com/andipetruzz/audio-link-downloads/releases/download/v0.1.7-beta.1/Audio-Link-0.1.7-Windows-x64-Beta-Setup.exe)**
+- [Baixar para Mac Apple Silicon — macOS 13.5+](https://github.com/andipetruzz/audio-link-downloads/releases/download/v0.1.7-beta.1/Audio-Link-0.1.7-macOS-Apple-Silicon-Beta.pkg)
+- [Baixar para Mac Intel — macOS 13.5+](https://github.com/andipetruzz/audio-link-downloads/releases/download/v0.1.7-beta.1/Audio-Link-0.1.7-macOS-Intel-Beta.pkg)
 
 [Ver todas as versões e os checksums](https://github.com/andipetruzz/audio-link-downloads/releases). Não precisa de conta no GitHub. Os arquivos “Source code” contêm apenas a documentação e os metadados públicos.
 
@@ -12,7 +12,7 @@ Depois de instalar, abra **Audio Link** nos efeitos VST3 da DAW (ou AU no Mac). 
 
 Para atualizar da versão 0.1.2, clique uma vez em **Atualizar** no plugin ou use o download acima. Salve o trabalho, feche a DAW e o antigo Audio Link Conexões, execute o instalador e reabra a DAW. Não precisa desinstalar; configurações e autorização são preservadas. A partir da 0.1.3, o plugin avisa sobre novas versões ao abrir sua interface. Até a 0.1.5, o aviso abre esta página; a partir da 0.1.6, o botão **Atualizar** baixa e abre o instalador sozinho.
 
-A versão 0.1.6 traz o botão **Atualizar** no plugin: nas próximas versões, ele baixa o instalador certo, confere o arquivo e abre o instalador, sem passar por esta página. Também corrige a ativação de computadores novos pelo convite privado e mostra na página de escuta se o áudio chega pela rede local ou pela internet. O plugin também tem o **QR code** para abrir o link de escuta no celular. Esta beta passou nos testes automatizados no Windows, nos dois Macs e no servidor, e numa transmissão real de um REAPER no Windows para o OBS. As betas são para testes e ainda não têm assinatura comercial.
+A versão 0.1.7 traz o **mixer do REAPER pelo celular**: com o Audio Link (VST3) no Master do REAPER, você controla volume, pan, mute, solo e o Auto-Tune de cada voz pelo celular, com um link de controle que só você tem (Configurações → Celular → **Copiar link de controle**). O celular de controle não baixa o áudio, para economizar dados no 4G, tem vaga garantida mesmo com quatro pessoas ouvindo e volta sozinho depois de uma queda rápida de rede. A janela do plugin também ficou nova. Quem tem a 0.1.6 atualiza pelo botão **Atualizar** no plugin, com a transmissão parada. Esta beta passou nos testes automatizados no Windows, nos dois Macs e no servidor, e no teste do instalador Windows. As betas são para testes e ainda não têm assinatura comercial.
 
 ## Instalar a beta no Mac
 
